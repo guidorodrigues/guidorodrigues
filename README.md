@@ -1,8 +1,13 @@
+<h1>Hello, my name is Guido!</h1>
+
+<p>🌐 Front-End developer</p>
+<p>🖥 JavaScript developer</p>
+
 <div>
 <a herf="https://github.com/guidorodrigues"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula"/>
 <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidorodrigues&layout=compact&theme=dracula"/>
-
+<div/>
 
 
 
