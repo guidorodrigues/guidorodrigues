@@ -2,8 +2,8 @@
 
 <h2>Development</h2>
 <div align='center' margin-top='3em'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidorodrigues&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula"/>
 </div>
 
 <div style="display: inline_block" align='center'><br>
