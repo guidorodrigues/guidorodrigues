@@ -14,7 +14,7 @@
 </div>
 
 ![226127913-88de86d3-8437-45b9-a3b6-e746b47f655a](https://github.com/user-attachments/assets/5134c9fa-c8a8-45ca-9d53-aed40835a950)
-<img src="https://media1.tenor.com/m/GUawEvsJjSUAAAAd/enigma-do-medo-samuel-norte.gif" width="100" alt="Enigma do Medo">
+<img src="https://static.wikia.nocookie.net/ordemparanormal/images/4/48/Pixelart_Samuel.gif/revision/latest?cb=20240717115545&path-prefix=pt-br" width="100" alt="Enigma do Medo">
 
 #
 <div align='center'>
