@@ -1,10 +1,33 @@
 <h1 align="center">👋 Hello, my name is Guido!</h1>
 
-<h2>Development</h2>
-<div align='center' margin-top='3em'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidorodrigues&layout=compact&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula"/>
-</div>
+<h2>⚙️ GitHub Analytics</h2>
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidorodrigues&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=guidorodrigues&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
 <div style="display: inline_block" align='center'><br>
   <img align="center" alt="Guido-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
