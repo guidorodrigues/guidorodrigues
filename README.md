@@ -2,20 +2,17 @@
 
 <h2>⚙️ GitHub Analytics</h2>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guidorodrigues&layout=compact&icons=true&theme=dracula"/>
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula" />
 </p>
 
+<h2>Linguagens</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Guido-Js" height="30" src="https://github.com/user-attachments/assets/c8d0c4e3-ce07-4ce9-b2dc-9467b433ee56">
-  <img align="center" alt="Guido-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guido-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guido-CSS" height="35"  src="https://github.com/user-attachments/assets/71d2bc80-7b30-4a24-9e97-d8599b1931d9">
-</div>
+<h2>Ferramentas e Tecnologias</h2>
 
+[![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
 
 
@@ -26,5 +23,5 @@
 <div align='center'>
   <a href="https://www.instagram.com/_guiz0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:guilhermenex999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/guilherme-rodrigues-24789535a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/guilherme-rodrigues-24789535a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
