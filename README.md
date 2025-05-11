@@ -6,11 +6,11 @@
     <img src="https://github-readme-stats.vercel.app/api?username=guidorodrigues&show_icons=true&theme=dracula" />
 </p>
 
-<h2>🖥️ Linguagens</h2>
+<h2>🖥️ languages</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)<br><br>
 
-<h2>🛠️ Ferramentas e Tecnologias</h2>
+<h2>🛠️ Tools and technologies</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,git,github)](https://skillicons.dev)<br><br>
 
